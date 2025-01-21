@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+.form-group {
+    margin-bottom: 1em;
+}
+
+.alert {
+    color: red;
+}
+
+table {
+    border-collapse: collapse;
+    border: 2px solid #000;
+}
+
+table th,
+table td {
+    border: 1px solid #000;
+    padding: 8px;
+    text-align: left;
+}

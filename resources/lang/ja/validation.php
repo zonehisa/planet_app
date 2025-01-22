@@ -276,5 +276,6 @@ return [
         'winner'                   => '受賞者',
         'work'                     => '仕事',
         'year'                     => '年',
+        'english_name' => '英語名',
     ],
 ];

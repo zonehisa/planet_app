@@ -28,4 +28,11 @@ class PlanetRequest extends FormRequest
             'weight' => 'required|integer',
         ];
     }
+    public function attributes(): array
+    {
+        return [
+            'radius' => '半径',
+            'weight' => '重量',
+        ];
+    }
 }

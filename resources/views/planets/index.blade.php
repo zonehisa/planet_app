@@ -17,6 +17,9 @@
             <th>名前(英語)</th>
             <th>半径</th>
             <th>重量</th>
+            <th></th>
+            <th></th>
+            <th></th>
         </tr>
         @foreach ($planets as $planet)
             <tr>

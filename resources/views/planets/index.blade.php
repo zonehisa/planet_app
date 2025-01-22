@@ -11,7 +11,7 @@
 
 <body>
     <h1>惑星一覧</h1>
-    <table>
+    <table border="1">
         <tr>
             <th>名前</th>
             <th>名前(英語)</th>
